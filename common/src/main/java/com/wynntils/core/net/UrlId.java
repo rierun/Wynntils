@@ -23,6 +23,8 @@ public enum UrlId {
     API_ATHENA_UPDATE_CHANGELOG("apiAthenaUpdateChangelog"),
     API_ATHENA_UPDATE_CHECK("apiAthenaUpdateCheck"),
     API_ATHENA_USER_INFO("apiAthenaUserInfo"),
+    API_DEEPL_TRANSLATION("apiDeeplTranslation"),
+    API_FREE_DEEPL_TRANSLATION("apiFreeDeeplTranslation"),
     API_GOOGLE_TRANSLATION("apiGoogleTranslation"),
     API_WIKI_DISCOVERY_QUERY("apiWikiDiscoveryQuery"),
     API_WIKI_QUEST_PAGE_QUERY("apiWikiQuestPageQuery"),

@@ -48,6 +48,16 @@
     "url": "https://athena.wynntils.com/user/getInfo"
   },
   {
+    "id": "apiDeepLTranslation",
+    "method": "post",
+    "url": "https://api.deepl.com/v2/translate"
+  },
+  {
+    "id": "apiFreeDeepLTranslation",
+    "method": "post",
+    "url": "https://api-free.deepl.com/v2/translate"
+  },
+  {
     "arguments": [
       "lang",
       "text"
